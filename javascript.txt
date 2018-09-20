@@ -1,0 +1,26 @@
+[Adblock Plus 2.0]
+! GitHub repository: https://github.com/ruggorgulo/ublock-rules
+! Title: Ruggorgulo javascript filters
+! Expires: 48 hours
+! License: Public Domain
+! Supported filters: https://adblockplus.org/en/filters
+!
+! -------------- My Javascript filters -----------------
+!
+
+||googletagmanager.com
+||googlesydication.com
+||pingdom.net
+||trackad.cz
+||facebook.com
+||navrcholu.cz
+||twitter.com
+
+!
+! -------------- Site specific inline scripts -----------------
+!
+
+||echo24.cz^$inline-script
+||parlamentnilisty.cz^$inline-script
+||root.cz^$inline-script
+||abclinuxu.cz^$inline-script
