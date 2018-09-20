@@ -1,0 +1,75 @@
+[Adblock Plus 2.0]
+! GitHub repository: https://github.com/ruggorgulo/ublock-rules
+! Title: my cosmetic filters
+! Expires: 48 hours
+! License: Public Domain
+! Supported filters: https://adblockplus.org/en/filters
+!
+! -------------- My Cosmetic filters - Element hiding rules -----------------
+!
+
+armadninoviny.cz###hlavni-banner
+armadninoviny.cz###right
+armadninoviny.cz###subcon
+
+echo24.cz##.border-top-thick.border-right.l-gr-6\@t.l-gr-12
+echo24.cz##.js-l-match-slave.l-gr-6\@t.l-gr-12
+echo24.cz##.l-blocks:nth-of-type(3) > .l-block-2:nth-of-type(1)
+echo24.cz##.l-headerOffset.l-wrapper
+echo24.cz##.l-wrapper:nth-of-type(5) > .l-content > .l-row > .l-gr-6\@t.l-gr-12:nth-of-type(2)
+echo24.cz##.l-wrapper:nth-of-type(6) > .l-row > .l-gr-12
+echo24.cz##.section-echoprime.border-top-thick.l-wrapper
+echo24.cz##div.l-wrapper:nth-of-type(4) > .l-row > .l-gr-12
+echo24.cz###discussion
+echo24.cz##div.l-row:nth-of-type(3)
+
+idnes.cz###f-foot
+idnes.cz###f-lachtan
+idnes.cz###foot2
+idnes.cz###najdete
+idnes.cz###space-f
+idnes.cz###space-h
+
+parlamentnilisty.cz###cookiebar
+parlamentnilisty.cz##.col-md-4
+parlamentnilisty.cz##.col-md-4.col-sm-6.col-xs-12
+parlamentnilisty.cz##.col-md-4.col-sm-6.col-xs-12
+parlamentnilisty.cz##.col-md-6.col-sm-6.col-xs-12:nth-of-type(2)
+parlamentnilisty.cz##.col-md-6.col-sm-6.col-xs-12:nth-of-type(2)
+parlamentnilisty.cz##.col-md-8 > section:nth-of-type(2)
+parlamentnilisty.cz##.container:nth-of-type(2) > .row > .col-md-4
+parlamentnilisty.cz##.news-from-profiles
+parlamentnilisty.cz##.poll.section-inarticle.section-brown
+parlamentnilisty.cz##.pre-footer
+parlamentnilisty.cz##.profile-thumb-card
+parlamentnilisty.cz##.quick-list-inline
+parlamentnilisty.cz##.related-articles-box
+parlamentnilisty.cz##.related-articles-wrap
+parlamentnilisty.cz##.section-brown.col-md-2.col-xs-4
+parlamentnilisty.cz##.well-rounded.bety-articles
+parlamentnilisty.cz##.well-rounded.well
+parlamentnilisty.cz##figure
+parlamentnilisty.cz##footer
+parlamentnilisty.cz##p:nth-of-type(25)
+parlamentnilisty.cz###main > div.container:nth-of-type(1)
+
+pinterest.com##.FullPageModal__scroller
+pinterest.com##.Module.DenzelReactBridge > div > div:nth-of-type(2)
+pinterest.com##div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3)
+pinterest.com##div:nth-of-type(2) > div:nth-of-type(2) > div
+pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
+pinterest.de##div:nth-of-type(4) > .FullPageModal__scroller
+pinterest.de##div:nth-of-type(2) > div:nth-of-type(4)
+pinterest.de##div:nth-of-type(4) > .FullPageModal__scroller
+pinterest.de##div:nth-of-type(2) > div:nth-of-type(4)
+
+root.cz###sidebar
+root.cz##.clear.promo__inner
+root.cz##.iinfobar__content
+root.cz##.promo
+root.cz##.section--footer
+root.cz##.section--related
+root.cz##.design-box.design-box--jobs.design-box--jobs--theme-default.design-box--jobs--||i.iinfo.cz/images/root/368/kombajn-sklizen-preview.jpg$image
+
+
+mobile.js-jobs-box.design-box--jobs--active-tab-1
