@@ -33,14 +33,11 @@ idnes.cz###space-h
 parlamentnilisty.cz###cookiebar
 parlamentnilisty.cz##.col-md-4
 parlamentnilisty.cz##.col-md-4.col-sm-6.col-xs-12
-parlamentnilisty.cz##.col-md-4.col-sm-6.col-xs-12
-parlamentnilisty.cz##.col-md-6.col-sm-6.col-xs-12:nth-of-type(2)
 parlamentnilisty.cz##.col-md-6.col-sm-6.col-xs-12:nth-of-type(2)
 parlamentnilisty.cz##.col-md-8 > section:nth-of-type(2)
 parlamentnilisty.cz##.container:nth-of-type(2) > .row > .col-md-4
 parlamentnilisty.cz##.news-from-profiles
 parlamentnilisty.cz##.poll.section-inarticle.section-brown
-parlamentnilisty.cz##.pre-footer
 parlamentnilisty.cz##.profile-thumb-card
 parlamentnilisty.cz##.quick-list-inline
 parlamentnilisty.cz##.related-articles-box
@@ -49,6 +46,8 @@ parlamentnilisty.cz##.section-brown.col-md-2.col-xs-4
 parlamentnilisty.cz##.well-rounded.bety-articles
 parlamentnilisty.cz##.well-rounded.well
 parlamentnilisty.cz##figure
+parlamentnilisty.cz##header
+parlamentnilisty.cz##.pre-footer
 parlamentnilisty.cz##footer
 parlamentnilisty.cz##p:nth-of-type(25)
 parlamentnilisty.cz###main > div.container:nth-of-type(1)
@@ -69,7 +68,14 @@ root.cz##.iinfobar__content
 root.cz##.promo
 root.cz##.section--footer
 root.cz##.section--related
-root.cz##.design-box.design-box--jobs.design-box--jobs--theme-default.design-box--jobs--||i.iinfo.cz/images/root/368/kombajn-sklizen-preview.jpg$image
+root.cz##sefa
+||i.iinfo.cz/images/root/*/kombajn*.jpg$image
+
+www.lidl.cz##.hero
+www.lidl.cz##.sectionhead
+www.lidl.cz##.productgrid__teaser-wrapper
+www.lidl.cz##.teaser__image > .picture--loaded.picture--banner\@md.picture
+www.lidl-shop.cz##.theme-hero.c-10
+www.lidl-shop.cz##.grid-teaser
 
 
-mobile.js-jobs-box.design-box--jobs--active-tab-1
