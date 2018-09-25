@@ -5,7 +5,7 @@
 ! License: Public Domain
 ! Supported filters: https://adblockplus.org/en/filters
 !
-! -------------- My Javascript filters -----------------
+! -------------- Block all -----------------
 !
 
 ||googletagmanager.com
@@ -17,10 +17,20 @@
 ||twitter.com
 
 !
-! -------------- Site specific inline scripts -----------------
+! -------------- Site specific -----------------
 !
+||imedia.cz/*.js
+||ajax.googleapis.com/*/webfont.js
 
+||echo24.cz/*.js
+||echo24.cz/
 ||echo24.cz^$inline-script
+
+||parlamentnilisty.cz/*.js
 ||parlamentnilisty.cz^$inline-script
+
+||root.cz/*.js
 ||root.cz^$inline-script
+
+||abclinuxu.cz/*.js
 ||abclinuxu.cz^$inline-script
