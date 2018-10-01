@@ -19,6 +19,8 @@
 !
 ! -------------- Site specific -----------------
 !
+||google.com/cse/*
+
 ||imedia.cz/*.js
 ||ajax.googleapis.com/*/webfont.js
 
