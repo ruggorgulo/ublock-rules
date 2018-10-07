@@ -76,12 +76,21 @@ root.cz##.section--related
 root.cz##sefa
 ||i.iinfo.cz/images/root/*/kombajn*.jpg$image
 
-lidl.cz##.hero
+
 lidl.cz##.sectionhead
 lidl.cz##.productgrid__teaser-wrapper
-lidl.cz##.teaser__image > .picture--loaded.picture--banner\@md.picture
+lidl.cz##.teasercontainer__item
+lidl.cz##.hero__content
+lidl.cz##.hero__overlay
+lidl.cz##.hero__image
+lidl.media01.eu/
+
 lidl-shop.cz##.theme-hero.c-10
 lidl-shop.cz##.grid-teaser
+
+
+
+
 
 ! -------------- generic rules -----------------
 ##.xreklama
