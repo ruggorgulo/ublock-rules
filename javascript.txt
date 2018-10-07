@@ -25,7 +25,6 @@
 ||ajax.googleapis.com/*/webfont.js
 
 ||echo24.cz/*.js
-||echo24.cz/
 ||echo24.cz^$inline-script
 
 ||parlamentnilisty.cz/*.js
