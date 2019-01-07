@@ -8,13 +8,31 @@
 ! -------------- Block all -----------------
 !
 
-||googletagmanager.com
+! --- advertisement ---
 ||googlesydication.com
-||pingdom.net
+||bbelements.com
 ||trackad.cz
+||richmedia.cz
+||proadscdn.com
+
+! --- antisocial ---
 ||facebook.com
-||navrcholu.cz
 ||twitter.com
+
+
+! --- metric counters ---
+||googletagmanager.com
+||navrcholu.cz
+||gemius.pl
+||mc.yandex.ru
+||pingdom.net
+
+! --- fonts ---
+||fontawesome.com
+
+! --- content delivery network ---
+||stackpath.bootstrapcdn.com/*.js
+||cloudflare.com/*.js
 
 !
 ! -------------- Site specific -----------------
@@ -35,3 +53,6 @@
 
 ||abclinuxu.cz/*.js
 ||abclinuxu.cz^$inline-script
+
+||armadninoviny.cz^$inline-script
+||armadninoviny.cz/*.js
