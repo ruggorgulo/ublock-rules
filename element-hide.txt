@@ -11,6 +11,10 @@
 armadninoviny.cz###hlavni-banner
 armadninoviny.cz###right
 armadninoviny.cz###subcon
+armadninoviny.cz##.banner-slider
+armadninoviny.cz##.col-lg-4
+armadninoviny.cz##div.container:nth-of-type(3)
+armadninoviny.cz##.souvisejici-clanky.vypis-novinek
 
 echo24.cz##.border-top-thick.border-right.l-gr-6\@t.l-gr-12
 echo24.cz##.js-l-match-slave.l-gr-6\@t.l-gr-12
