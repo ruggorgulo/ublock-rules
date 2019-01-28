@@ -47,6 +47,7 @@
 
 ||parlamentnilisty.cz/*.js
 ||parlamentnilisty.cz^$inline-script
+||rum-static.pingdom.net/*.js
 
 ||root.cz/*.js
 ||root.cz^$inline-script
