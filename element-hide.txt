@@ -15,6 +15,8 @@ armadninoviny.cz##.banner-slider
 armadninoviny.cz##.col-lg-4
 armadninoviny.cz##div.container:nth-of-type(3)
 armadninoviny.cz##.souvisejici-clanky.vypis-novinek
+armadninoviny.cz##.doporucte-clanek
+armadninoviny.cz##.komentare-info
 
 echo24.cz##.border-top-thick.border-right.l-gr-6\@t.l-gr-12
 echo24.cz##.js-l-match-slave.l-gr-6\@t.l-gr-12
@@ -26,6 +28,13 @@ echo24.cz##.section-echoprime.border-top-thick.l-wrapper
 echo24.cz##div.l-wrapper:nth-of-type(4) > .l-row > .l-gr-12
 echo24.cz###discussion
 echo24.cz##div.l-row:nth-of-type(3)
+||maxcdn.bootstrapcdn.com^$stylesheet
+||code.ionicframework.com^$stylesheet
+||echo24.cz^$stylesheet
+echo24.cz##.intent-exit-box.l-row
+echo24.cz##.poutak-predplatitele--gradient.poutak-predplatitele
+echo24.cz##.poutak-predplatitele--box.poutak-predplatitele
+echo24.cz###footer
 
 idnes.cz###f-foot
 idnes.cz###f-lachtan
@@ -93,9 +102,15 @@ lidl.media01.eu/
 lidl-shop.cz##.theme-hero.c-10
 lidl-shop.cz##.grid-teaser
 
+! hide youtube comments
+www.youtube.com###sections
+www.youtube.com##.opened
+||consent.google.com/$subdocument
+www.youtube.com###dialog
 
-
-
+! no fonts
+||fonts.googleapis.com^
+||fonts.gstatic.com^
 
 ! -------------- generic rules -----------------
 ##.xreklama
