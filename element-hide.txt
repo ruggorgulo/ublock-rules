@@ -30,11 +30,12 @@ echo24.cz###discussion
 echo24.cz##div.l-row:nth-of-type(3)
 ||maxcdn.bootstrapcdn.com^$stylesheet
 ||code.ionicframework.com^$stylesheet
-||echo24.cz^$stylesheet
 echo24.cz##.intent-exit-box.l-row
 echo24.cz##.poutak-predplatitele--gradient.poutak-predplatitele
 echo24.cz##.poutak-predplatitele--box.poutak-predplatitele
 echo24.cz###footer
+||echo24.cz^$stylesheet
+||echo24.cz^$image
 
 idnes.cz###f-foot
 idnes.cz###f-lachtan
@@ -69,6 +70,7 @@ parlamentnilisty.cz##footer
 parlamentnilisty.cz##p:nth-of-type(25)
 parlamentnilisty.cz###main > div.container:nth-of-type(1)
 parlamentnilisty.cz/image.ashx$image
+||www.parlamentnilisty.cz/profily-sprava/*
 
 pinterest.com##.FullPageModal__scroller
 pinterest.com##.Module.DenzelReactBridge > div > div:nth-of-type(2)
